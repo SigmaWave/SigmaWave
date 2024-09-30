@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to My GitHub
 
-<!--
-**SigmaWave/SigmaWave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is a collection of projects and resources focused on data science, machine learning, and finance-related.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Quantitative Finance Algorithms**  
+  A series of Jupyter notebooks and Python scripts that explore different quantitative trading strategies, including momentum trading, mean reversion, and option pricing.
+
+- **Reinforcement Learning for Industrial Processes**  
+  A project that applies reinforcement learning techniques to optimize water treatment processes. It includes hyperparameter tuning, model optimization, and detailed documentation.
+
+- **Life Insurance Fund Profitability Simulation**  
+  Python-based simulation of profitability for different life insurance funds under varying interest rate environments. Developed in partnership with industry experts.
+
+## Get in Touch
+
+For professional inquiries or collaboration opportunities, feel free to reach out via [LinkedIn](#).
