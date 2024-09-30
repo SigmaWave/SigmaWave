@@ -4,9 +4,6 @@ This repository is a collection of projects and resources focused on data scienc
 
 ## Featured Projects
 
-- **Quantitative Finance Algorithms**  
-  A series of Jupyter notebooks and Python scripts that explore different quantitative trading strategies, including momentum trading, mean reversion, and option pricing.
-
 - **Reinforcement Learning for Industrial Processes**  
   A project that applies reinforcement learning techniques to optimize water treatment processes. It includes hyperparameter tuning, model optimization, and detailed documentation.
 
