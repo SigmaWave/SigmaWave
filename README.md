@@ -1,15 +1,20 @@
 # Welcome to My GitHub
 
-This repository is a collection of projects and resources focused on data science, machine learning, and finance-related.
+## About Me
 
-## Featured Projects
+I am pursuing a MS in Operations Research at Columbia, expected graduation date: Dec 2026.
 
-- **Reinforcement Learning for Industrial Processes**  
-  A project that applies reinforcement learning techniques to optimize water treatment processes. It includes hyperparameter tuning, model optimization, and detailed documentation.
+Looking for quant roles summer 26.
 
-- **Life Insurance Fund Profitability Simulation**  
-  Python-based simulation of profitability for different life insurance funds under varying interest rate environments. Developed in partnership with industry experts.
+## My Projects
 
-## Get in Touch
+### [3D Scene Simulation with Ray Tracing](https://github.com/SigmaWave/ray-tracing)
 
-For professional inquiries or collaboration opportunities, feel free to reach out via [LinkedIn](#).
+![Ray Tracing Preview](https://github.com/SigmaWave/ray-tracing/blob/main/images/eclairage_direct.png)
+- Implemented custom ray tracing algorithm from scratch using an existing rendering engine as backend
+- Designed the full data architecture for all scene objects to support lighting, textures, reflections, shadows, and blur
+- Strengthened C++ proficiency through object-oriented design and performance-oriented structuring
+
+## Contact
+
+Contact me on [LinkedIn](https://www.linkedin.com/in/pierre-pujol/)
