@@ -4,7 +4,6 @@
 
 I am pursuing a MS in Operations Research at Columbia, expected graduation date: Dec 2026.
 
-Looking for quant roles summer 26.
 
 ## My Projects
 
